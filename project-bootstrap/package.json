@@ -1,0 +1,15 @@
+{
+  "name": "project-bootstrap",
+  "version": "1.0.0",
+  "description": "Proyecto básico con Express y nodemon",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "dev": "nodemon script.js" 
+  },
+  "author": "S-KiRa",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
