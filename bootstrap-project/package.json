@@ -4,8 +4,8 @@
   "description": "Proyecto básico con Express y nodemon",
   "main": "script.js",
   "scripts": {
-    "start": "node script.js",
-    "dev": "nodemon script.js" 
+    "start": "node ./src/script.js",
+    "dev": "nodemon ./src/script.js" 
   },
   "author": "S-KiRa",
   "dependencies": {
