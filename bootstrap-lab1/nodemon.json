@@ -1,0 +1,5 @@
+{
+  "watch": ["script.js", "index.html"],
+  "ext": "js,html",
+  "ignore": ["node_modules"]
+}
